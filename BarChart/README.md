@@ -1,4 +1,4 @@
-# Personal Portfolio Webpage
+# Bar Chart
 
 * Visualize Data with a Bar Chart!
 
